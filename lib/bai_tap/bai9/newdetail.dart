@@ -6,6 +6,7 @@ import 'package:url_launcher/url_launcher.dart';
 
 class NewsDetailScreen extends StatelessWidget {
   final New news;
+  
 
   const NewsDetailScreen({super.key, required this.news});
 
